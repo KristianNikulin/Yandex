@@ -1,1 +1,1 @@
-![B](/Yandex/img/Algorithms2.0-B-1/B.png?raw=true)
+![B](B-task.png)
