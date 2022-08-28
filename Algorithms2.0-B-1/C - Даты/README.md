@@ -1,1 +1,1 @@
-![Screenshot](/Yandex/img/Algorithms2.0-B-1/C.png)
+![C](/Yandex/img/Algorithms2.0-B-1/C.png?raw=true)
