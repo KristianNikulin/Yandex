@@ -1,0 +1,1 @@
+![Screenshot](/Yandex/img/Algorithms2.0-B-1/D.png)
